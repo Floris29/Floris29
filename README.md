@@ -1,5 +1,6 @@
 
 👩‍💻  About Me :
+
 I am a 13 Year old teenager from the Netherlands that is trying te learn how to develop differnt tipes of development.
 
 🔭 I’m trying te learn html, css and js.

@@ -9,8 +9,6 @@
 
 <a href="https://github.com/Floris29" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 
-![Profile views](https://gpvc.arturio.dev/floris29)
-
 ## Platforms:
 
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />

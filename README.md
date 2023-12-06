@@ -1,4 +1,4 @@
-### Hi there, I'm Floris! 👋
+### Hello world, I am Floris
 
 - 🔭 I’m currently working on improving my programming skills.
 - 🌱 I’m currently learning HTML, CSS and Javascript.

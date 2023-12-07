@@ -6,8 +6,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Floris29&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Floris29&layout=compact&theme=gruvbox)
 
-<a href="https://github.com/Floris29" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-
 ## Platforms:
 
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />

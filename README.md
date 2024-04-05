@@ -1,8 +1,5 @@
 ### Hello world, I am Floris
 
-- 🔭 I’m currently working on improving my programming skills.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Floris29&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Floris29&layout=compact&theme=gruvbox)
 

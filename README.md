@@ -1,21 +1,37 @@
-### Hello world, I am Floris
+# Hello World,
+# I am Floris
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Floris29&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Floris29&layout=compact&theme=gruvbox)
+# 👋 &nbsp;Hi there
 
-## Platforms:
+I'm a software developer based in The Netherlands with a passion for building user-friendly and visually appealing websites. I specialize in front-end development, creating interactive and responsive interfaces that enhance the user experience. I enjoy working with modern technologies and continuously expanding my skill set to stay up-to-date with industry trends. I'm always eager to tackle new challenges and contribute to exciting projects!
+&nbsp;
 
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
-<img align="left" alt="Android" width="26px" src="https://user-images.githubusercontent.com/70490501/170794601-f15b01bc-6a08-4305-8cd9-62375eaa053f.png" />
+## 👇 &nbsp;Current project
 
-<br>
+I'm currently working on [@Floriscodes.nl](https://FlorisCodes.nl), my personal website portfolio where I showcase my projects and skills. Stay tuned for updates and new features, as exciting improvements are coming soon!
 
-## Languages:
+&nbsp;
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+## 🧰 &nbsp;My toolbox
 
-<br>
+## 🧰 &nbsp;My toolbox
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+
+&nbsp;
+
+## 📊;Stats
+
+![Floris' Github Stats](https://github-readme-stats.vercel.app/api?username=Floris29&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Floris29&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)

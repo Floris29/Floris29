@@ -33,7 +33,4 @@ I'm currently working on [@Floriscodes.nl](https://FlorisCodes.nl), my personal 
 ## 📊Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=floris29&show_icons=true&locale=en&layout=compact" alt="floris29" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=floris29&show_icons=true&locale=en" alt="floris29" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=floris29&" alt="floris29" />

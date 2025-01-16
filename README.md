@@ -1,5 +1,5 @@
 # Hello World,
-# I am Floris
+## I am Floris
 
 # 👋 &nbsp;Hi there
 
@@ -12,4 +12,3 @@ I'm a software developer based in The Netherlands with a passion for building us
 ## 📊Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=floris29&show_icons=true&locale=en&layout=compact" alt="floris29" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=floris29&" alt="floris29" />

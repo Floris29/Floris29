@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, Serverpod, Laravel, PHP**
 
-- 👨‍💻 All of my projects are available at [Floriscodes.nl](Floriscodes.nl)
+- 👨‍💻 All of my projects are available at [Floriscodes.nl](https://Floriscodes.nl)
 
 - 📫 How to reach me **Floris@floriscodes.nl**
 

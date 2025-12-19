@@ -1,9 +1,6 @@
 <div align="center">
     <h1>Hi 👋, I'm Floris</h1>
-<h3>A passionate Full-Stack developer
-        from The Netherlands</h3> - 🌱 I’m currently learning **Dart, Flutter, Serverpod, Laravel,
-    PHP** - 👨‍💻 All of my projects are available at [Floriscodes.nl](https://Floriscodes.nl) - 📫
-    How to reach me **Floris@floriscodes.nl** <h3>Connect with me:</h3>
+    <h3>Connect with me:</h3>
 <p>
         <a href="https://www.linkedin.com/in/florismelchers/" target="_blank">
             <img
